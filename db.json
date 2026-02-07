@@ -1,39 +1,81 @@
 {
   "items": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Yogurt",
       "category": "Dairy",
       "isInCart": false
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Pomegranate",
       "category": "Produce",
       "isInCart": false
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Lettuce",
       "category": "Produce",
       "isInCart": false
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "String Cheese",
       "category": "Dairy",
       "isInCart": false
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Swiss Cheese",
       "category": "Dairy",
       "isInCart": false
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Cookies",
       "category": "Dessert",
+      "isInCart": false
+    },
+    {
+      "id": "12a5",
+      "name": "Pumpkin",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "79b8",
+      "name": "Pumpkin",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "e618",
+      "name": "Pumpkin",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "99c4",
+      "name": "Pumpkin",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "6e8c",
+      "name": "Pumpkin",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "db29",
+      "name": "Pumpkin",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "fb6a",
+      "name": "Pumpkin",
+      "category": "Produce",
       "isInCart": false
     }
   ]
